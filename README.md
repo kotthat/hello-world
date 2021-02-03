@@ -1,2 +1,3 @@
 # hello-world
-test run
+i'm kot, i love coding!
+i've all the candy in the world.
